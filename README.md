@@ -23,3 +23,6 @@ MySQL:For data quering,cleaning and management.
 Power Bi: Dynamic dashboard creation and interactive data visualization.
 
 Both MySQL and Power Bi allowed for thorough cross validation of data, ensuring accuracy and reliability in addressing the project’s problem statements.
+
+
+view live dashboard: https://app.powerbi.com/groups/me/reports/e2398d4a-d80e-488c-b22b-ac5f95740d70?ctid=87aa562b-dd26-4628-8887-903079fba7c8&pbi_source=linkShare
